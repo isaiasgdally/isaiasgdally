@@ -166,7 +166,7 @@ Me chamo Isaias Gomes Dally Junior, tenho 18 anos e sou natural da Bahia. Conclu
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=isaiasgdally&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=isaiasgdally&show_icons=true&theme=tokyonight&include_all_commits=false&locale=pt-br" 
   />
 
 <img 
