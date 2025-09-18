@@ -158,9 +158,9 @@ Me chamo Isaias Gomes Dally Junior, tenho 18 anos e sou natural da Bahia. Conclu
 <br/>
 <br/>
 
-### 📊 Estatísticas
 
-<!--
+
+
 <p>
   <img 
     align="left" 
@@ -178,4 +178,4 @@ Me chamo Isaias Gomes Dally Junior, tenho 18 anos e sou natural da Bahia. Conclu
   />
 
 </p>
--->
+
