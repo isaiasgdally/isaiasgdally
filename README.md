@@ -1,8 +1,8 @@
-# Isaias Dally
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7A40CC&width=435&lines=Olá%2C+pessoal!+Me+chamo+Isaias+Dally.;Bem-vindos+ao+meu+perfil+do+Github!+)](https://git.io/typing-svg)
 
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
 
-Me chamo Isaias Gomes Dally Junior, tenho 18 anos e sou natural da Bahia. Concluí o ensino médio no Colégio Simonton. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unifacs. O meu foco de estudo atualmete é o desenvolvimento Front-End.
+Me chamo Isaias Gomes Dally Junior, tenho 18 anos e sou natural da Bahia.<br>Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unifacs.<br> O meu foco de estudo atualmete é o desenvolvimento Front-End.
 
 <p align="left">
     <!-- <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
@@ -39,7 +39,7 @@ Me chamo Isaias Gomes Dally Junior, tenho 18 anos e sou natural da Bahia. Conclu
 
 
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -174,7 +174,7 @@ Me chamo Isaias Gomes Dally Junior, tenho 18 anos e sou natural da Bahia. Conclu
 
 </p>
 -->
-### 📊 Estatísticas 
+### Estatísticas 
 
 <img 
     align='left'
